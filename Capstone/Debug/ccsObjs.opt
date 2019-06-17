@@ -1,0 +1,1 @@
+"./FIFO.obj" "./UART.obj" "./ble.obj" "./gps.obj" "./main.obj" "./serial_flash.obj" "./spi.obj" "./timerA0.obj" "../lnk_msp430g2452.cmd" -llibc.a 
